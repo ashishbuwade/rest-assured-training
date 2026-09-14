@@ -1,0 +1,22 @@
+<suite name = "Suite">
+    <test name = "Test1">
+        <classes>
+            <class name = "day8.CreateUser"></class>
+        </classes>
+    </test>
+    <test name = "Test2">
+        <classes>
+            <class name = "day8.GetUser"></class>
+        </classes>
+    </test>
+    <test name = "Test3">
+        <classes>
+            <class name = "day8.UpdateUser"></class>
+        </classes>
+    </test>
+    <test name = "Test4">
+        <classes>
+            <class name = "day8.DeleteUser"></class>
+        </classes>
+    </test>
+</suite>

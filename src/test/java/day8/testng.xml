@@ -1,0 +1,10 @@
+<suite name = "Suite">
+    <test thread-count = "5" name = "Test">
+        <classes>
+            <class name = "day8.CreateUser"></class>
+            <class name = "day8.GetUser"></class>
+            <class name = "day8.UpdateUser"></class>
+            <class name = "day8.DeleteUser"></class>
+        </classes>
+    </test>
+</suite>

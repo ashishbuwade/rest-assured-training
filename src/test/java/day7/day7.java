@@ -1,3 +1,5 @@
+// Day 7 - Authentication examples using Rest Assured
+
 package day7;
 
 import org.testng.annotations.Test;
